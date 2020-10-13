@@ -1,10 +1,24 @@
 body {
 	background-color:beige;
+	 width: 960px;
+ margin-left: auto;
+ margin-right: auto;
+}
+title{
+	font-size: 40px;
+}
+h1{
+	font-size: 38px;
+}
+h2{
+	font-size: 36px;
 }
 
 h3{
-	color: blue
+	color: blue;
+	font-size:34px 
 }
 p{
-	color: red
+	color: red;
+	font-size:32px;
 }
